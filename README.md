@@ -1,4 +1,4 @@
-# 🧭 Mediation Analysis Workflow Checklist
+#  Mediation Analysis Workflow Checklist
 
 
 This checklist provides a structured guide to selecting the appropriate mediation framework based on study design and data characteristics.  
@@ -61,7 +61,7 @@ For additional cancer research tools, see [younghhk/NCI](https://github.com/youn
 
 ---
 
-### ✅ **Minimum information to provide for consultation**
+###  **Minimum information to provide for consultation**
 1. Outcome type (binary, continuous, or survival)  
 2. Exposure type and number  
 3. Mediator type and number  
