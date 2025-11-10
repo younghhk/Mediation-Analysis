@@ -4,7 +4,7 @@
 This checklist provides a structured guide to selecting the appropriate mediation framework based on study design and data characteristics.  
 
 > 🧬 **For additional cancer research software and tools**, visit  
-> [NCI Cancer Research Software Repository](https://github.com/younghhk/NCI)
+> [Cancer Research Software Repository](https://github.com/younghhk/NCI)
 
 
 ---
