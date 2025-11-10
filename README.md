@@ -1,20 +1,22 @@
+> 🧬 **For additional cancer research software and tools**, visit  
+> [Cancer Research Software Repository](https://github.com/younghhk/NCI)
+
+---
+
 #  Mediation Analysis Workflow Checklist
 
 
 This checklist provides a structured guide to selecting the appropriate mediation framework based on study design and data characteristics.  
 
-> 🧬 **For additional cancer research software and tools**, visit  
-> [Cancer Research Software Repository](https://github.com/younghhk/NCI)
 
 
----
 
 ### **1. Outcome (Y)**
 | Question | Options |
 |-----------|----------|
 | Type of outcome | ☐ Binary ☐ Continuous ☐ Time-to-event (survival) |
 
----
+
 
 ### **2. Exposure (A)**
 | Question | Options |
@@ -24,7 +26,7 @@ This checklist provides a structured guide to selecting the appropriate mediatio
 | Number of exposures | ☐ Single ☐ Multiple (analyzed separately) |
 | Dimensionality | ☐ Low (≤10) ☐ High (>10, e.g. omics features) |
 
----
+
 
 ### **3. Mediator(s) (M)**
 | Question | Options |
@@ -33,14 +35,14 @@ This checklist provides a structured guide to selecting the appropriate mediatio
 | Dimensionality | ☐ Low (≤10) ☐ High (>10) |
 | Type | ☐ Continuous ☐ Binary ☐ Mixed |
 
----
+
 
 ### **4. Confounders (X)**
 | Question | Options |
 |-----------|----------|
 | Are there known confounders to adjust for (e.g., age, sex, batch)? | ☐ Yes ☐ No |
 
----
+
 
 ### **5. Temporal and causal assumptions**
 | Question | Options / Notes |
@@ -49,7 +51,7 @@ This checklist provides a structured guide to selecting the appropriate mediatio
 | Are major confounders of the A–M, M–Y, and A–Y paths measured? | ☐ Yes ☐ No |
 | Is an exposure–mediator interaction plausible? | ☐ Yes ☐ No (If yes, include interaction term in the model) |
 
----
+
 
 ### **6. Modeling goals**
 | Question | Options |
