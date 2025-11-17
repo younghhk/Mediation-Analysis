@@ -22,7 +22,7 @@ This checklist provides a structured guide to selecting the appropriate mediatio
 | Is the study observational or experimental? | ☐ Observational ☐ Experimental |
 | Type of exposure | ☐ Binary ☐ Continuous ☐ Categorical |
 | Number of exposures | ☐ Single ☐ Multiple (analyzed separately) |
-| Dimensionality | ☐ Low (≤10) ☐ High (>10, e.g. omics features) |
+| Dimensionality | ☐ Low  ☐ High (e.g. omics features) |
 
 
 
@@ -30,7 +30,7 @@ This checklist provides a structured guide to selecting the appropriate mediatio
 | Question | Options |
 |-----------|----------|
 | Number of mediators | ☐ Single ☐ Multiple (parallel) |
-| Dimensionality | ☐ Low (≤10) ☐ High (>10) |
+| Dimensionality | ☐ Low  ☐ High  |
 | Type | ☐ Continuous ☐ Binary ☐ Mixed |
 
 
