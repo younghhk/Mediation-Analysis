@@ -1,4 +1,4 @@
-# Mediation in Three Simple Steps
+<!--# Mediation in Three Simple Steps
 
 Mediation analysis helps answer a common question:
 
@@ -51,6 +51,6 @@ Check two things:
 *Goal of Step 3:*
 
 See whether adding M reduces the X → Y relationship.
-This tells us how much of the effect flows through M.
+This tells us how much of the effect flows through M.-->
 
 
